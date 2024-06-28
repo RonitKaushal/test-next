@@ -75,7 +75,7 @@ export default function SignUpPage() {
           <CardHeader>
             <CardTitle>Login</CardTitle>
             <CardDescription>
-              Login to your account here. Click continue when you're done.
+              Login to your account here. Click continue when you&apos;re done.
             </CardDescription>
           </CardHeader>
           <CardContent className="space-y-2">
@@ -100,7 +100,7 @@ export default function SignUpPage() {
           <CardHeader>
             <CardTitle>Register</CardTitle>
             <CardDescription>
-              Register here. After saving, you'll be logged in!.
+              Register here. After saving, you&apos;ll be logged in!.
             </CardDescription>
           </CardHeader>
           <CardContent className="space-y-2">
